@@ -1,0 +1,7 @@
+salt
+bread
+tomato
+spinach
+pasta
+chicken
+butter
