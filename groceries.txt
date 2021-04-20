@@ -6,3 +6,4 @@ pasta
 chicken
 butter
 eggs
+toilet paper
